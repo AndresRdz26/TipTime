@@ -1,6 +1,6 @@
 Diseño basico de una App basica de calculadora de propinas.
 
-Esta aplicación contiene los elementos:
+Esta aplicación contiene:
  - Un campo para ingresar texto
  - Tres RadionButton para la eleccion de porcentaje
  - Un switch para activar o desactivar opciones
